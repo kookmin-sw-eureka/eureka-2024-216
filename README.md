@@ -130,6 +130,19 @@
     <th><b>정통처 탐방</b></th>
     <th colspan="2"><b>교수님 인터뷰</b></th>
   </tr>
+  <tr>
+     <td>
+      <img src="https://github.com/user-attachments/assets/b7ae8338-abe5-48e2-827c-3fb8f205fd38" alt="정통처 탐방 이미지" width="300">
+    </td>
+    <td>
+      <b>[3, 4학년 과목 담당 최은미 교수님]</b><br>
+      <img src="https://github.com/user-attachments/assets/cc15ed70-0f32-4e2c-b782-142a287c2fee" alt="3, 4학년 교수님 인터뷰 이미지" width="300">
+    </td>
+    <td>
+      <b>[한재섭 교수님]</b><br>
+      <img src="https://github.com/user-attachments/assets/670b7884-1c80-496d-904b-34cbec0bb154" alt="교수님 인터뷰 이미지" width="300">
+    </td>
+  </tr>
 
 </table>
 
