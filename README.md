@@ -133,6 +133,7 @@
   </tr>
   <tr>
     <td>
+      <b></b>
       <img src="https://github.com/user-attachments/assets/b7ae8338-abe5-48e2-827c-3fb8f205fd38" alt="정통처 탐방 이미지" width="300">
     </td>
     <td>
