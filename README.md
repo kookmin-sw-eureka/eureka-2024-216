@@ -131,7 +131,7 @@
     <th colspan="2"><b>교수님 인터뷰</b></th>
   </tr>
   <tr>
-     <td>
+    <td>
       <img src="https://github.com/user-attachments/assets/b7ae8338-abe5-48e2-827c-3fb8f205fd38" alt="정통처 탐방 이미지" width="300">
     </td>
     <td>
